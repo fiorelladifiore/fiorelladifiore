@@ -7,7 +7,7 @@
 ## 🌷 Sobre mí
 💖 Apasionada por el desarrollo web.  
 🚀 Me gusta crear aplicaciones funcionales y con **buen diseño**, y desafiarme a mí misma en el proceso.  
-🎯 Actualmente explorando: **React**.
+🎯 Actualmente explorando: **React**.  
 💡 Siempre aprendiendo y compartiendo mis conocimientos.
 
 ---
