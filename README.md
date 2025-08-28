@@ -31,7 +31,7 @@
 
 ## 🌺 Proyectos Destacados
 
-### 🛍️ [tiendaDeRopaAPI](https://github.com/fiorelladifiore/tiendaDeRopaAPI)
+### 🛍️ [tienda De Ropa API](https://github.com/fiorelladifiore/tiendaDeRopaAPI)
 API en **PHP** para la gestión de tiendas y productos:
 - ✨ CRUD de `stores` y `products`
 - 🔑 Autenticación con endpoints dedicados
@@ -39,7 +39,7 @@ API en **PHP** para la gestión de tiendas y productos:
 
 ---
 
-### 🌱 [Vivero-angular-project](https://github.com/fiorelladifiore/Vivero-angular-project)
+### 🌱 [Vivero angular project](https://github.com/fiorelladifiore/Vivero-angular-project)
 Interfaz en **Angular CLI v19**:
 - 🎨 UI moderna y adaptativa
 - 🔄 Rutas dinámicas y componentes reutilizables
@@ -47,7 +47,7 @@ Interfaz en **Angular CLI v19**:
 
 ---
 
-### 🐾 [Vet](https://github.com/fiorelladifiore/Vet)
+### 🐾 [Vet app](https://github.com/fiorelladifiore/vet_app)
 Aplicación para gestión veterinaria con **Spring Boot + MySQL**:
 - 📋 Registro de dueños y mascotas
 - 🐶 Gestión de turnos
