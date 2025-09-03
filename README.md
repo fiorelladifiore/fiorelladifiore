@@ -7,24 +7,24 @@
 ## 🌷 Sobre mí
 💖 Apasionada por el desarrollo web.  
 🚀 Me gusta crear aplicaciones funcionales y con **buen diseño**, y desafiarme a mí misma en el proceso.  
-🎯 Actualmente explorando: **React**.  
+🎯 Actualmente explorando: **React** y **Microservicios**.  
 💡 Siempre aprendiendo y compartiendo mis conocimientos.
 
 ---
 
-## 🌸 Tecnologías que uso
+## 🌸 Tecnologías y lenguajes que uso
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Angular-E75480?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-FF69B4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring Boot-FF6F91?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-FF4C8B?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-FF4C8B?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-FF4C8B?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6F91?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-E75480?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-FF4C8B?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ Aplicación para gestión veterinaria con **Spring Boot + MySQL**:
 ---
 
 <h3 align="center">✨ Gracias por visitar mi perfil ✨</h3>
-<p align="center">🌷 Siempre aprendiendo, siempre creando 🌷</p>
+
 
 ---
 Eng:
@@ -86,25 +86,26 @@ Eng:
 ## 🌷 About Me
 💖 Passionate about web development.  
 🚀 I enjoy creating functional applications with **good design** and challenging myself while at it.  
-🎯 Currently exploring: **React**.  
+🎯 Currently exploring: **React** and **Microservices**.  
 💡 Always learning and sharing my knowledge.
 
 ---
 
-## 🌸 Technologies I Use
+## 🌸 Technologies and programming languages I Use
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Angular-E75480?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-FF69B4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring Boot-FF6F91?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-FF4C8B?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-FF4C8B?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-FF4C8B?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6F91?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-E75480?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-FF4C8B?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
 
 ---
 
@@ -152,4 +153,4 @@ Veterinary management application with **Spring Boot + MySQL**:
 ---
 
 <h3 align="center">✨ Thanks for visiting my profile ✨</h3>
-<p align="center">🌷 Always learning, always creating 🌷</p>
+
