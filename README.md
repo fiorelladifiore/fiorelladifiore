@@ -53,14 +53,6 @@ Aplicación para gestión veterinaria con **Spring Boot + MySQL**:
 - 🐶 Gestión de turnos
 - ⚡ Conexión a base de datos con Docker Compose
 
----
-
-## 📊 Mis estadísticas en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fiorelladifiore&show_icons=true&theme=rose_pine&title_color=ff4c8b&icon_color=e75480&text_color=f6c1d1&bg_color=1a1a1a" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiorelladifiore&layout=compact&theme=rose_pine&title_color=ff4c8b&text_color=f6c1d1&bg_color=1a1a1a" height="165"/>
-</p>
 
 ---
 
@@ -133,14 +125,6 @@ Veterinary management application with **Spring Boot + MySQL**:
 - 🐶 Appointment management  
 - ⚡ Database connection using Docker Compose  
 
----
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fiorelladifiore&show_icons=true&theme=rose_pine&title_color=ff4c8b&icon_color=e75480&text_color=f6c1d1&bg_color=1a1a1a" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiorelladifiore&layout=compact&theme=rose_pine&title_color=ff4c8b&text_color=f6c1d1&bg_color=1a1a1a" height="165"/>
-</p>
 
 ---
 
