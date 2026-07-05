@@ -41,12 +41,12 @@
 
 **Herramientas**
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-th=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bruno-CD262E?style=for-thehite" />
+  <img src="https://img.shields.io/badge/Bruno-CD262E?style=for-the-badge&logo=bruno&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/opencode-000000?style=for-" />
+  <img src="https://img.shields.io/badge/opencode-000000?style=for-the-badge" />
 </p>
 
 ---
