@@ -57,7 +57,7 @@
 Plataforma de venta de viandas saludables con arquitectura de **microservicios**:
 - 🧩 Backend en **Spring Boot** con microservicios independientes (auth, heladeras, órdenes, cocina, notificaciones) gestionados con **Maven**
 - 🔐 Autenticación y autorización con **JWT** a través de un API Gateway
-- ⚛️ Frontend en **React + Vite**, dockerizado y servido con **Ngin
+- ⚛️ Frontend en **React + Vite**, dockerizado y servido con **Nginx**
 - 🐳 Stack completo orquestado con **Docker Compose**
 
 ---
